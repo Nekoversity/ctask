@@ -1,0 +1,3 @@
+"D:\apps\CLion\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\CTask.dir/objects.a
+D:\apps\winbuilds\bin\ar.exe cr CMakeFiles\CTask.dir/objects.a @CMakeFiles\CTask.dir\objects1.rsp
+D:\apps\winbuilds\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\CTask.dir/objects.a -Wl,--no-whole-archive -o CTask.exe -Wl,--out-implib,libCTask.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CTask.dir\linklibs.rsp

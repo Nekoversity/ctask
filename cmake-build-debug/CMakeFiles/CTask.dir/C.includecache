@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/dev/cpp/uni/CTask/lib/commands.c
+systools.c
+D:/dev/cpp/uni/CTask/lib/systools.c
+../storage.c
+D:/dev/cpp/uni/CTask/storage.c
+
+D:/dev/cpp/uni/CTask/lib/messages.c
+commands.c
+D:/dev/cpp/uni/CTask/lib/commands.c
+
+D:/dev/cpp/uni/CTask/lib/systools.c
+../stdafx.h
+D:/dev/cpp/uni/CTask/stdafx.h
+
+D:/dev/cpp/uni/CTask/main.c
+lib/messages.c
+D:/dev/cpp/uni/CTask/lib/messages.c
+stdafx.h
+D:/dev/cpp/uni/CTask/stdafx.h
+storage.c
+D:/dev/cpp/uni/CTask/storage.c
+
+D:/dev/cpp/uni/CTask/stdafx.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+
+D:/dev/cpp/uni/CTask/storage.c
+stdafx.h
+D:/dev/cpp/uni/CTask/stdafx.h
+

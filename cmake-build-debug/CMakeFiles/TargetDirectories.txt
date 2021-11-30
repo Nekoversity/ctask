@@ -1,0 +1,3 @@
+D:/dev/cpp/uni/CTask/cmake-build-debug/CMakeFiles/CTask.dir
+D:/dev/cpp/uni/CTask/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/dev/cpp/uni/CTask/cmake-build-debug/CMakeFiles/rebuild_cache.dir
